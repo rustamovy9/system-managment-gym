@@ -1,0 +1,13 @@
+global using System;
+global using SystemManagmentGym.Entities;
+global using SystemManagmentGym.Services.UserScheduleServices;
+global using SystemManagmentGym.Services.UserServices;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore.Query;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.AspNetCore.Diagnostics;
